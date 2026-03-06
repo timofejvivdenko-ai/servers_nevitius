@@ -1,6 +1,6 @@
 -- КОНФІГУРАЦІЯ
 local config = {
-    ["server-1"] = "false",  -- Зміни на "false" і батник навіть не відкриє гру
+    ["server-1"] = "true", 
     ["server-2"] = "false"
 }
 
