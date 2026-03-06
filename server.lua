@@ -1,7 +1,7 @@
 -- КОНФІГУРАЦІЯ
 local config = {
-    ["server-1"] = "true",  -- Зміни на "false" і батник навіть не відкриє гру
-    ["server-2"] = "true"
+    ["server-1"] = "false",  -- Зміни на "false" і батник навіть не відкриє гру
+    ["server-2"] = "false"
 }
 
 -- АВТОМАТИЧНИЙ СПАВН (SOLO PLAY)
